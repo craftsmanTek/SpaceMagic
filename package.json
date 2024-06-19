@@ -5,7 +5,7 @@
 , "author": "SpaceMagic <development@spacemagic.io>"
 , "dependencies": {
     "connect": "1.8.3"
-  , "socket.io": "0.8.7"
+  , "socket.io": "2.5.0"
   , "commander": "0.x.x"
   , "mongolian": "0.1.17"
   , "underscore": "1.2.x"
